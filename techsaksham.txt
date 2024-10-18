@@ -1,0 +1,175 @@
+17 th October tech Saksham 
+
+topics covered 
+
+1. html & css (16th oct)
+heading tags 
+formatting tags 
+table tag 
+list lags 
+anchor tag 
+section tag 
+nav tag
+header tag
+footer tag 
+form tag 
+img tag 
+link tag
+
+CSS
+inline css
+internal css
+external css
+type of selectors 
+
+17th oct morning session 
+2.JAVA SCRIPT 
+validating input 
+creating dynamic content 
+
+now a  days we can create a full fledged website only with java script 
+react JS 
+Node JS 
+Express JS 
+
+concept in java script:
+
+DOM (document object model )
+ maintains a tre structure 
+
+Events::
+mouse evets
+
+features:
+ES3
+
+application of js :
+gaming develepment 
+web development 
+mobile application development 
+
+types of java script :
+1.internal java script used inside the header of html file 
+2. external java script: this js file is saved enternal to the html file 
+
+if you execute a js code in html you just need to click go live ,html doc is opened in your web browser 
+eg: document.write("hello");
+
+if you want to excecute js code from js file . install node framework , suing node extension js file is excecuted
+eg : console.log ("click here ti get 1000 rs "); // to print something to console 
+
+advantage :
+ when you store value to variable no need to specify the datatype in js 
+
+eg : var mark = 10;
+	var name = "sanjay";
+
+comparison operator:
+== //it ckecks the operand value not data type
+====// it checks both value and data type of the operands
+
+
+//rules for namiing variables 
+allowed letters : a-z , A-Z , _
+no other characters are used to speciafy a variabe 
+
+primitive and non primitive data types: object , data , array 
+
+//operators: assignment op , conditional op , logical op, special op (/:),relational op 
+
+
+//conditional statements :
+ if
+ if else
+ else if  
+switch 
+
+//looping
+
+1. for
+eg::
+for (int i=0;i<=5;i++)
+{
+
+}
+2.while 
+eg :
+//initialisation
+while (condition){
+
+incrementation 
+}
+
+3. do while 
+eg:
+
+var I= 0
+do{
+console.log(I)
+}
+while(condition)
+
+//looping control statements
+
+continue - skips the current iteration 
+break -come out from the loop 
+
+
+//non primitive
+
+object :
+------property ------
+let person - {
+firstname :"john",
+lastname :"deer",
+age :25,
+place: "tindivanam"    //here in java scrit double codes "" , and single codes means the same thing '
+
+
+
+}
+fibonaccai series 
+prime no 
+arrays
+
+//object 
+
+let student ={
+sname :"sanjay",
+sid:49,
+sage : 19,
+sgrade :"a"
+}
+
+//funtions or methods 
+
+eg:
+
+function deppawali (){
+console.log("deppawali")
+}
+
+depawali ()
+
+
+eg2:
+
+function add(a,b){
+ return a+b
+}
+let result = add(10,15)
+
+console.log(result)
+
+
+java script features : ES6 
+
+oops concept : classes, objects , inheritance , polymorphism , encapsulation , abstraction
+\\oops is the concept or approach for programming 
+here all the things r considered as classes and objects .
+
+
+
+
+
+
