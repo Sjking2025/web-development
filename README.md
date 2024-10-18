@@ -1,1 +1,1 @@
-thorakadha nee sethuduva da
+Naan dha tharkuri
