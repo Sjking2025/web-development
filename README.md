@@ -1,1 +1,1 @@
-Naan dha tharkuri
+LION IS ALWAYS A LION 
